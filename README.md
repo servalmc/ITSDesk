@@ -3,6 +3,7 @@
 
 
 ### ![Download](https://it-sys.kz/engine/download.png) [Скачать программу](http://it-sys.kz/engine/downloads/itsdesk2.0.exe)
+### ![Download](https://it-sys.kz/engine/gp.png) [Скачать версию для Android](https://play.google.com/store/apps/details?id=com.hd.itsys)
 
 ## Screenshots
 
