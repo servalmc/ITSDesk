@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-![Screenshot v3.0: Main window](https://it-sys.kz/engine/1.png)
+![Screenshot v3.0: Main window](https://it-sys.kz/engine/3.png)
 
 
 ## Что нового / Changelog
